@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Запустите скрипт:
 
 bash
-python game.py
+python main.py
 Пример вывода:
 
 Загаданное число: 42
